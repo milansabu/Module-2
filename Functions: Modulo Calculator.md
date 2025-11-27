@@ -12,8 +12,18 @@ To write a Python program that defines a function which accepts two values and r
 
 ## 🧾 Program
 
-Add code Here
+def result(a,b):
+
+mod=a%b
+
+print(f"modulo is {mod}")
+
+a = int(input())
+
+b = int(input())
 
 ## Output
+<img width="326" height="150" alt="image" src="https://github.com/user-attachments/assets/7ac62fad-2af8-4cdd-8f54-0048825b231c" />
 
 ## Result
+Thus, the program has been successfully executed
